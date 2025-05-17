@@ -1,6 +1,7 @@
 # Ignores all files in your local documentation
 os-documentation/
 combined_output.md
+combined_output/
 
 # Ignores debug files
 .vscode/
