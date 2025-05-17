@@ -1,6 +1,9 @@
 # Ignores all files in your local documentation
 os-documentation/
 
+# Ignores debug files
+.vscode/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
