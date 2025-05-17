@@ -1,3 +1,6 @@
+# Ignores all files in your local documentation
+os-documentation/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
